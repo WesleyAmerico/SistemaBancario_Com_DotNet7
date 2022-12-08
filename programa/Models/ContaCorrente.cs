@@ -1,7 +1,7 @@
 using System;
 namespace programa.Models;
 
-struct ContaCorrente
+public struct ContaCorrente
 {
     public string IdCliente { get; set; }
     public double Valor { get; set; }

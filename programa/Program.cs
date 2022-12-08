@@ -7,7 +7,7 @@ while (true)
 {
     Console.Clear();
 
-    Console.WriteLine("""
+    Console.WriteLine($"""
     =================[Seja bem-vindo à empresa Lina]=================
     O que você deseja fazer?
     1 - Cadastrar o cliente
