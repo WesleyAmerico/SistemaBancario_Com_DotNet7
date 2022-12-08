@@ -1,4 +1,4 @@
-namespace Logica.Models;
+namespace programa.Models;
 
 struct Cliente
 {

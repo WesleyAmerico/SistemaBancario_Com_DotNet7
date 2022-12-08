@@ -1,4 +1,5 @@
-namespace Logica.Models;
+using System;
+namespace programa.Models;
 
 struct ContaCorrente
 {
